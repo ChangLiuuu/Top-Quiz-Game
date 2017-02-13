@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Nov 27 15:15:44 PST 2016
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=/Users/liuchang/Documents/E-workplace/Assign3_CLiu/quiz.jar
+manifest.mergeall=true
+manifest.mainclass=Controller.Test
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
